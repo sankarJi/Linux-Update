@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: build
+appId: TrakZo_2.2.4
+productName: TrakZo
+extraFiles:
+  - filter:
+      - assets
+linux:
+  target:
+    - AppImage
+    - deb
+  publish:
+    - provider: generic
+      url: http://msuat.zoiftspl.com/linuxupdates
+  category: Utility
+files: []
+electronVersion: 8.5.5

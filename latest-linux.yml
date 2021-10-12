@@ -1,0 +1,9 @@
+version: 2.2.4
+files:
+  - url: TrakZo-2.2.4.AppImage
+    sha512: rzIz3YdPpHZqsvnD6C17ybKn/GnBKFwZmOtEXT2E1L1NGMwXALCYraEEtkvyESNSyVaD55LKAl8WrjCmy5hf2g==
+    size: 91109481
+    blockMapSize: 96381
+path: TrakZo-2.2.4.AppImage
+sha512: rzIz3YdPpHZqsvnD6C17ybKn/GnBKFwZmOtEXT2E1L1NGMwXALCYraEEtkvyESNSyVaD55LKAl8WrjCmy5hf2g==
+releaseDate: '2021-10-11T12:44:55.669Z'
